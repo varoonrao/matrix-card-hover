@@ -1,0 +1,24 @@
+{
+  "name": "matrix-3d-hover",
+  "version": "1.0.0",
+  "description": "Beautiful fluid card transformation on hover.",
+  "main": "matrix.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varoonrao/matrix-card-hover"
+  },
+  "keywords": [
+    "matrix",
+    "card",
+    "card-hover"
+  ],
+  "author": "Varun Rao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/varoonrao/matrix-card-hover/issues"
+  },
+  "homepage": "https://github.com/varoonrao/matrix-card-hover#readme"
+}
