@@ -1,6 +1,5 @@
 
-[![npm version](https://img.shields.io/npm/v/matrix-3d-hover?color=blue)]
-(https://www.npmjs.com/package/matrix-3d-hover) 
+![npm version](https://img.shields.io/npm/v/matrix-3d-hover?color=blue)
 ![Bundle size](https://img.shields.io/github/repo-size/varoonrao/matrix-card-hover) 
 
 # matrix effect on hovering the element.
